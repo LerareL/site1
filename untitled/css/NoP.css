@@ -84,6 +84,7 @@ footer .container{
 
 a{
     text-decoration: none;
+    color: darkblue;
 }
 
 .product-item div img{
@@ -109,6 +110,15 @@ a{
     padding: 15px;
     border-radius: 20px;
     height: 350px;
+}
+
+.reg-form{
+    background-color: ghostwhite;
+    width: 400px;
+    margin: 40px auto;
+    padding: 15px;
+    border-radius: 20px;
+    height: 600px;
 }
 
 .input-container{
@@ -173,4 +183,8 @@ a{
     font-weight: bold;
     font-size: 15px;
     margin: 0 0 25px 0;
+}
+
+.btn-con:hover{
+    color: #670cba;
 }
